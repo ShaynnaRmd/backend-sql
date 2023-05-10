@@ -750,7 +750,7 @@ INSERT INTO `doctrine_migration_versions` (`version`, `executed_at`, `execution_
 ('DoctrineMigrations\\Version20230318003134', '2023-03-18 01:37:28', 188),
 ('DoctrineMigrations\\Version20230318003736', '2023-03-18 01:37:43', 178);
 
--- --------------------------------------------------------
+-- -------------------------------------------------------
 
 --
 -- Structure de la table `event`
